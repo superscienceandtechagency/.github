@@ -4,7 +4,7 @@
 
 We design, build, secure, automate, and research technology solutions for startups, businesses, enterprises, institutions, and research organizations.
 
-[Services](../SERVICES.md) · [Portfolio & demonstrations](#portfolio--demonstrations) · [Our team](#our-team) · [Contact & collaboration](#contact--collaboration)
+[Services](../SERVICES.md) · [Portfolio & demonstrations](#portfolio--demonstrations) · [Our team](#-our-team) · [Contact & collaboration](#contact--collaboration)
 
 ## At a glance
 
@@ -55,66 +55,140 @@ No verified client projects or portfolio demonstrations are currently presented 
 
 The [public profile repository](https://github.com/superscienceandtechagency/.github) contains this organization profile and service documentation; it is not presented as a client project. Visit the [organization's public repositories](https://github.com/superscienceandtechagency?tab=repositories) to discover any published work.
 
-## Our team
+## 👥 Our Team
 
-People in our supplied team roster work across software engineering, artificial intelligence, cybersecurity, design, marketing, and research. The directory below reflects the roles and collaborations documented in that roster; it is not a verified list of current GitHub organization members. Names are not linked because verified profile URLs were not supplied.
+Meet the people behind Super Science & Technology Agency.
 
-### Leadership & Core Engineering
+The names and roles below reflect the agency's supplied team roster and do not verify current GitHub organization membership. Member names are not linked because profile URLs have not been confirmed.
 
-- **MD. Yousuf Ali**  
-  Founder & Chief Developer
-- **Srijon Dey**  
-  Co-Founder & Senior Developer · Cyber Security Specialist
-- **Sonjoy Das**  
-  Co-Founder & Senior Developer · AI/ML Specialist
-- **MD. Mahtab Ahmed Mahin**  
-  Senior Developer
-- **Shahriar Siyam**  
-  Senior Developer · Data Scientist Specialist
-- **Mahidul Haque**  
-  Guest Developer · Cyber Security Specialist · Research Collaborator
-
-### Design
-
-- **Sobuj Dev**  
-  Senior Graphics & UI/UX Designer
-
-### Interns & Space Apps Project Members
-
-- **MD. Sheik Rafiwol Karim Rafi**  
-  Intern · NASA’26 Space Apps Project Member
-- **Hridi Singha**  
-  Intern · NASA’26 Space Apps Project Member
-- **Amran Uddin**  
-  Intern · NASA’26 Space Apps Project Member
-- **Miss. Rini**  
-  Intern · NASA’26 Space Apps Project Member
-
-### Marketing
-
-- **MD ABDUL HAKIM SEYAM**  
-  Marketing Lead
-- **Muhammad Billal Khan**  
-  Marketing Team Member
-- **Arafat Hossain**  
-  Marketing Team Member
-
-### Research Collaborators
-
-- **Shoumik Islam**  
-  Research Collaborator
-- **Mufti Faiyaz**  
-  Research Collaborator
-- **Mahfujur Rahman**  
-  Research Collaborator
-- **Wahaj Rashid Arian**  
-  Research Collaborator
-- **Probal Datta**  
-  Research Collaborator
-
-Mahidul Haque is also listed as a **Research Collaborator**; this role is included alongside his Leadership & Core Engineering entry rather than repeating his name here.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="images/MD_Yousuf_Ali.jpg" width="140" alt="MD. Yousuf Ali" />
+      <br /><strong>MD. Yousuf Ali</strong>
+      <br />Founder &amp; Chief Developer
+    </td>
+    <td align="center" width="33%">
+      <img src="images/Srijon_Dey.jpg" width="140" alt="Srijon Dey" />
+      <br /><strong>Srijon Dey</strong>
+      <br />Co-Founder &amp; Senior Developer
+      <br />Cyber Security Specialist
+    </td>
+    <td align="center" width="33%">
+      <img src="images/Sonjoy_Das.jpg" width="140" alt="Sonjoy Das" />
+      <br /><strong>Sonjoy Das</strong>
+      <br />Co-Founder &amp; Senior Developer
+      <br />AI/ML Specialist
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/MD_Mahtab_Ahmed_Mahin.jpg" width="140" alt="MD. Mahtab Ahmed Mahin" />
+      <br /><strong>MD. Mahtab Ahmed Mahin</strong>
+      <br />Senior Developer
+    </td>
+    <td align="center">
+      <img src="images/Shahriar_Siyam.jpg" width="140" alt="Shahriar Siyam" />
+      <br /><strong>Shahriar Siyam</strong>
+      <br />Senior Developer
+      <br />Data Scientist Specialist
+    </td>
+    <td align="center">
+      <img src="images/Sobuj_Dev.jpg" width="140" alt="Sobuj Dev" />
+      <br /><strong>Sobuj Dev</strong>
+      <br />Senior Graphics &amp; UI/UX Designer
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/MD_Sheik_Rafiwol_Karim_Rafi.jpg" width="140" alt="MD. Sheik Rafiwol Karim Rafi" />
+      <br /><strong>MD. Sheik Rafiwol Karim Rafi</strong>
+      <br />Intern
+      <br />NASA’26 Space Apps Project Member
+    </td>
+    <td align="center">
+      <img src="images/Hridi_Singha.jpg" width="140" alt="Hridi Singha" />
+      <br /><strong>Hridi Singha</strong>
+      <br />Intern
+      <br />NASA’26 Space Apps Project Member
+    </td>
+    <td align="center">
+      <img src="images/Amran_Uddin.jpg" width="140" alt="Amran Uddin" />
+      <br /><strong>Amran Uddin</strong>
+      <br />Intern
+      <br />NASA’26 Space Apps Project Member
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Miss_Rini.jpg" width="140" alt="Miss. Rini" />
+      <br /><strong>Miss. Rini</strong>
+      <br />Intern
+      <br />NASA’26 Space Apps Project Member
+    </td>
+    <td align="center">
+      <img src="images/Mahidul_Haque.jpg" width="140" alt="Mahidul Haque" />
+      <br /><strong>Mahidul Haque</strong>
+      <br />Guest Developer
+      <br />Cyber Security Specialist
+      <br />Research Collaborator
+    </td>
+    <td align="center">
+      <img src="images/MD_Abdul_Hakim_Seyam.jpg" width="140" alt="MD ABDUL HAKIM SEYAM" />
+      <br /><strong>MD ABDUL HAKIM SEYAM</strong>
+      <br />Marketing Lead
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Muhammad_Billal_Khan.jpg" width="140" alt="Muhammad Billal Khan" />
+      <br /><strong>Muhammad Billal Khan</strong>
+      <br />Marketing Team Member
+    </td>
+    <td align="center">
+      <img src="images/Arafat_Hossain.jpg" width="140" alt="Arafat Hossain" />
+      <br /><strong>Arafat Hossain</strong>
+      <br />Marketing Team Member
+    </td>
+    <td align="center">
+      <img src="images/Shoumik_Islam.jpg" width="140" alt="Shoumik Islam" />
+      <br /><strong>Shoumik Islam</strong>
+      <br />Research Collaborator
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Mufti_Faiyaz.jpg" width="140" alt="Mufti Faiyaz" />
+      <br /><strong>Mufti Faiyaz</strong>
+      <br />Research Collaborator
+    </td>
+    <td align="center">
+      <img src="images/Mahfujur_Rahman.jpg" width="140" alt="Mahfujur Rahman" />
+      <br /><strong>Mahfujur Rahman</strong>
+      <br />Research Collaborator
+    </td>
+    <td align="center">
+      <img src="images/Wahaj_Rashid_Arian.jpg" width="140" alt="Wahaj Rashid Arian" />
+      <br /><strong>Wahaj Rashid Arian</strong>
+      <br />Research Collaborator
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Probal_Datta.jpg" width="140" alt="Probal Datta" />
+      <br /><strong>Probal Datta</strong>
+      <br />Research Collaborator
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 The supplied roster describes four members as NASA’26 Space Apps Project Members. This designation does not establish NASA employment, affiliation, endorsement, or any unlisted award.
+
+---
+
+*We work together to build innovative technology and meaningful digital solutions.*
 
 ## Quality, security & responsible engineering
 
