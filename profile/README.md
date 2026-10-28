@@ -64,18 +64,18 @@ The names and roles below reflect the agency's supplied team roster and do not v
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="images/MD_Yousuf_Ali.jpg" width="140" alt="MD. Yousuf Ali" />
+      <img src="images/MD_Yousuf_Ali.jpg" width="120" alt="MD. Yousuf Ali" />
       <br /><strong>MD. Yousuf Ali</strong>
       <br />Founder &amp; Chief Developer
     </td>
     <td align="center" width="33%">
-      <img src="images/Srijon_Dey.jpg" width="140" alt="Srijon Dey" />
+      <img src="images/Srijon_Dey.jpg" width="120" alt="Srijon Dey" />
       <br /><strong>Srijon Dey</strong>
       <br />Co-Founder &amp; Senior Developer
       <br />Cyber Security Specialist
     </td>
     <td align="center" width="33%">
-      <img src="images/Sonjoy_Das.jpg" width="140" alt="Sonjoy Das" />
+      <img src="images/Sonjoy_Das.jpg" width="120" alt="Sonjoy Das" />
       <br /><strong>Sonjoy Das</strong>
       <br />Co-Founder &amp; Senior Developer
       <br />AI/ML Specialist
@@ -83,37 +83,37 @@ The names and roles below reflect the agency's supplied team roster and do not v
   </tr>
   <tr>
     <td align="center">
-      <img src="images/MD_Mahtab_Ahmed_Mahin.jpg" width="140" alt="MD. Mahtab Ahmed Mahin" />
+      <img src="images/MD_Mahtab_Ahmed_Mahin.jpg" width="120" alt="MD. Mahtab Ahmed Mahin" />
       <br /><strong>MD. Mahtab Ahmed Mahin</strong>
       <br />Senior Developer
     </td>
     <td align="center">
-      <img src="images/Shahriar_Siyam.jpg" width="140" alt="Shahriar Siyam" />
+      <img src="images/Shahriar_Siyam.jpg" width="120" alt="Shahriar Siyam" />
       <br /><strong>Shahriar Siyam</strong>
       <br />Senior Developer
       <br />Data Scientist Specialist
     </td>
     <td align="center">
-      <img src="images/Sobuj_Dev.jpg" width="140" alt="Sobuj Dev" />
+      <img src="images/Sobuj_Dev.jpg" width="120" alt="Sobuj Dev" />
       <br /><strong>Sobuj Dev</strong>
       <br />Senior Graphics &amp; UI/UX Designer
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/MD_Sheik_Rafiwol_Karim_Rafi.jpg" width="140" alt="MD. Sheik Rafiwol Karim Rafi" />
+      <img src="images/MD_Sheik_Rafiwol_Karim_Rafi.jpg" width="120" alt="MD. Sheik Rafiwol Karim Rafi" />
       <br /><strong>MD. Sheik Rafiwol Karim Rafi</strong>
       <br />Intern
       <br />NASA’26 Space Apps Project Member
     </td>
     <td align="center">
-      <img src="images/Hridi_Singha.jpg" width="140" alt="Hridi Singha" />
+      <img src="images/Hridi_Singha.jpg" width="120" alt="Hridi Singha" />
       <br /><strong>Hridi Singha</strong>
       <br />Intern
       <br />NASA’26 Space Apps Project Member
     </td>
     <td align="center">
-      <img src="images/Amran_Uddin.jpg" width="140" alt="Amran Uddin" />
+      <img src="images/Amran_Uddin.jpg" width="120" alt="Amran Uddin" />
       <br /><strong>Amran Uddin</strong>
       <br />Intern
       <br />NASA’26 Space Apps Project Member
@@ -121,61 +121,61 @@ The names and roles below reflect the agency's supplied team roster and do not v
   </tr>
   <tr>
     <td align="center">
-      <img src="images/Miss_Rini.jpg" width="140" alt="Miss. Rini" />
+      <img src="images/Miss_Rini.jpg" width="120" alt="Miss. Rini" />
       <br /><strong>Miss. Rini</strong>
       <br />Intern
       <br />NASA’26 Space Apps Project Member
     </td>
     <td align="center">
-      <img src="images/Mahidul_Haque.jpg" width="140" alt="Mahidul Haque" />
+      <img src="images/Mahidul_Haque.jpg" width="120" alt="Mahidul Haque" />
       <br /><strong>Mahidul Haque</strong>
       <br />Guest Developer
       <br />Cyber Security Specialist
       <br />Research Collaborator
     </td>
     <td align="center">
-      <img src="images/MD_Abdul_Hakim_Seyam.jpg" width="140" alt="MD ABDUL HAKIM SEYAM" />
+      <img src="images/MD_Abdul_Hakim_Seyam.jpg" width="120" alt="MD ABDUL HAKIM SEYAM" />
       <br /><strong>MD ABDUL HAKIM SEYAM</strong>
       <br />Marketing Lead
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/Muhammad_Billal_Khan.jpg" width="140" alt="Muhammad Billal Khan" />
+      <img src="images/Muhammad_Billal_Khan.jpg" width="120" alt="Muhammad Billal Khan" />
       <br /><strong>Muhammad Billal Khan</strong>
       <br />Marketing Team Member
     </td>
     <td align="center">
-      <img src="images/Arafat_Hossain.jpg" width="140" alt="Arafat Hossain" />
+      <img src="images/Arafat_Hossain.jpg" width="120" alt="Arafat Hossain" />
       <br /><strong>Arafat Hossain</strong>
       <br />Marketing Team Member
     </td>
     <td align="center">
-      <img src="images/Shoumik_Islam.jpg" width="140" alt="Shoumik Islam" />
+      <img src="images/Shoumik_Islam.jpg" width="120" alt="Shoumik Islam" />
       <br /><strong>Shoumik Islam</strong>
       <br />Research Collaborator
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/Mufti_Faiyaz.jpg" width="140" alt="Mufti Faiyaz" />
+      <img src="images/Mufti_Faiyaz.jpg" width="120" alt="Mufti Faiyaz" />
       <br /><strong>Mufti Faiyaz</strong>
       <br />Research Collaborator
     </td>
     <td align="center">
-      <img src="images/Mahfujur_Rahman.jpg" width="140" alt="Mahfujur Rahman" />
+      <img src="images/Mahfujur_Rahman.jpg" width="120" alt="Mahfujur Rahman" />
       <br /><strong>Mahfujur Rahman</strong>
       <br />Research Collaborator
     </td>
     <td align="center">
-      <img src="images/Wahaj_Rashid_Arian.jpg" width="140" alt="Wahaj Rashid Arian" />
+      <img src="images/Wahaj_Rashid_Arian.jpg" width="120" alt="Wahaj Rashid Arian" />
       <br /><strong>Wahaj Rashid Arian</strong>
       <br />Research Collaborator
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/Probal_Datta.jpg" width="140" alt="Probal Datta" />
+      <img src="images/Probal_Datta.jpg" width="120" alt="Probal Datta" />
       <br /><strong>Probal Datta</strong>
       <br />Research Collaborator
     </td>
